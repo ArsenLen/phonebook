@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arsen",
+      "number": "9969696543"
+    },
+    {
+      "id": 2,
+      "name": "Akram",
+      "number": "9969324213"
+    },
+    {
+      "name": "Aidar",
+      "number": "4896523",
+      "id": 3
+    },
+    {
+      "name": "Umar",
+      "number": "48651321",
+      "id": 4
+    },
+    {
+      "name": "user46",
+      "number": "546546",
+      "id": 5
+    },
+    {
+      "name": "USER ",
+      "number": "35436548",
+      "id": 6
+    }
+  ]
+}
